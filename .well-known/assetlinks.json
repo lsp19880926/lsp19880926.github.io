@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lsp.ibxs",
+      "sha256_cert_fingerprints": [
+        "7B:7A:FF:55:65:63:9D:FD:D6:2E:18:67:D2:CC:79:4D:6F:01:7D:CE:EF:D0:C8:67:B2:9F:25:63:7B:5D:41:9F"
+      ]
+    }
+  }
+]
